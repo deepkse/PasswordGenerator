@@ -15,4 +15,6 @@
 
 ### `Try it`
 
-deepkse.github.io/PasswordGenerator
+[deepkse.github.io/PasswordGenerator](https://deepkse.github.io/PasswordGenerator)
+
+![Agile Board](https://github.com/deepkse/deepkse/blob/main/public/images/PasswordGenerator.png?raw=true)
